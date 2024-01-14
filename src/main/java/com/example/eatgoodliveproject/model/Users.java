@@ -25,7 +25,7 @@ public class Users {
     private CountryCode countryCode;
     private Long phoneNumber;
     private Address address;
-    private String City;
-    private String Country;
+    private City City;
+    private Country Country;
 
 }

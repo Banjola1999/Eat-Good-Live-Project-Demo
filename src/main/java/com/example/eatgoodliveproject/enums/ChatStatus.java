@@ -1,4 +1,7 @@
 package com.example.eatgoodliveproject.enums;
 
-public class ChatStatus {
+public enum ChatStatus {
+    JOIN,
+    MESSAGE,
+    LEAVE
 }
